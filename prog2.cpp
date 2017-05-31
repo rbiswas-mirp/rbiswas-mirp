@@ -4,7 +4,7 @@
 using namespace std;
 int main()
 {
- float a,b,c,d,e,f,g,h;
+ float a,b,c,d,e,f;
  cout << "if the quadratic equation is ax2+bx+c=0" << endl;
  cin >> a>>b>>c;
  d=(b*b)-4*a*c;
