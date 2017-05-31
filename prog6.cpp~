@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
 	int n, number;
-	int max = -100000, smax = -100001
+	int max = -2147483646, smax = -2147483647;
 	cout << "Enter numbers" <<endl;
 	cin >> n;
 	for (int i = 0; i< n; i++){
