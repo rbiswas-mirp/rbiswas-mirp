@@ -10,6 +10,6 @@ int main()
 		sum=sum+N%10;
 		N=N/10;
 	}
-	cout<<"The sum is: "<<sum<<endl;
+	cout<<"The sum is;"<<sum<<endl;
 return 0;
 }
