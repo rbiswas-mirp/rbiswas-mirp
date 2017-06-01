@@ -4,7 +4,7 @@ int main()
 {
 	int i,n;
 	double max=-9999,min=+9999;
-	cout<<"Enter the value of N"<<endl;
+	cout<<"Enter the numbers"<<endl;
 	cin>>n;
 	cout<<"Enter the numbers"<<endl;
 	double a[n];
