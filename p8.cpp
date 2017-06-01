@@ -11,18 +11,12 @@ int main()
 	for(i=0;i<n;i++)
 	{
 		cin>>a[i];
-
-		if(a[i]>=max)	
+		if(a[i]>=max)
 			max=a[i];
-
-
 		if(a[i]<=min)
 			min=a[i];
-
 	}
 	cout<<"The maximum is"<<max<<endl;
 	cout<<"The minimum is"<<min<<endl;
 return 0;
 }
-
-
