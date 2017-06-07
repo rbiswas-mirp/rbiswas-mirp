@@ -4,6 +4,8 @@ int displayWidth=500, displayHeight=500;
 // Velocity Cnstants
 float BALL_VELOCITY = 20; //This is the MAX speed of the ball.
 float PADDLE_VELOCITY = 10;
+//float gravity = 0.1;
+float restitutionCoeff = 0.95;
 
 // Background Color
 int bgColor = 0;
