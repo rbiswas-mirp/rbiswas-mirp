@@ -42,5 +42,5 @@ void drawBall() {
 }
 void drawfloor(){
   fill( 0, 0, 0,500);
-  rect(displayHeight-floorHeightX,0,displayWidth,floorHeightX);
+  rect(displayHeight-50,0,displayWidth,floorHeightX);
 }
